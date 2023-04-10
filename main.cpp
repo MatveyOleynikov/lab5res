@@ -9,5 +9,6 @@ int main(){
     int b15 = 0;
     int b16 = 0;
     int b17 = 0;
+    int b18 = 0;
     return 0;
 }
