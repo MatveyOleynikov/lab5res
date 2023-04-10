@@ -9,6 +9,7 @@ int main(){
     int b31 = 0;
     int b32 = 0;
     int b33 = 0;
+    int b34 = 0;
 
     return 0;
 }
